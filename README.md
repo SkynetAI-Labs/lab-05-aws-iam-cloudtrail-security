@@ -231,3 +231,9 @@ Before any future deployment, assess CloudWatch ingestion, storage and query
 costs and S3 access-log storage costs using current eu-north-1 pricing and
 expected volume. Review permissions, resource names, retention, evidence
 export and cleanup procedures. Deployment requires separate explicit approval.
+
+
+## Repository audit — 24 October 2026
+
+See the [dated security audit and prioritised recommendations](SECURITY_AUDIT.md) for the reviewed source commit, verification results, open findings and evidence limitations.
+
